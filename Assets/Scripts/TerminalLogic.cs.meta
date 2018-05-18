@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 13a0dc421c931894e84c52a27a43baaa
+timeCreated: 1431705528
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _welcomeSound: {fileID: 8300000, guid: f983375e12e900c41b7cb1da6a66bd25, type: 3}
+  - _levelUpSound: {fileID: 8300000, guid: 8fa7f3acc3117ba469f2176df6eba203, type: 3}
+  - _levelDownSound: {fileID: 8300000, guid: 70a826fe4abe12c4cbff5e80e8621d18, type: 3}
+  - _selectSound: {fileID: 8300000, guid: 6c6009e038f604149b5a9e66d6e74cad, type: 3}
+  - _textMaterial: {fileID: 2100000, guid: 48567f25dacbcd346826bbfcc47a461f, type: 2}
+  - _inactiveMaterial: {fileID: 2100000, guid: dfc8004e9ebeb594ea222ef6a49342c9, type: 2}
+  - _activeMaterial: {fileID: 2100000, guid: b04ec9e9dfaa1d047b4c4d12e09688bb, type: 2}
+  - _selectedMaterial: {fileID: 2100000, guid: d287f43b8611f7945b9648ae3b90d51f, type: 2}
+  - _loadingScreen: {fileID: 21300000, guid: bd0c34feb1bd84b438f259f1fa0f3f57, type: 3}
+  - _loadingIcon: {fileID: 21300000, guid: b41faf78e1eb74e49816fd97f2c3b339, type: 3}
+  - _inactiveButtons: {fileID: 2800000, guid: 362331332d2f4dc48ac005a0d130c4a7, type: 3}
+  - _activeButtons: {fileID: 2800000, guid: 22f8a3ca49c07394db0edfb4da653d24, type: 3}
+  - _font: {fileID: 12800000, guid: 823b2975501dc7e408b887a7420d2e18, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

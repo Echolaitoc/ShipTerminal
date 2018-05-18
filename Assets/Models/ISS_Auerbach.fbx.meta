@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 3e30527a6db5bd94d8ea19bb471e9e58
+timeCreated: 1431620944
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: Cargo
+    100004: CommunicationAndNavigation
+    100006: CrewQuarters
+    100008: Engineering
+    100010: Hangar
+    100012: HydroponicGardens
+    100014: //RootNode
+    100016: Medical
+    100018: Research
+    100020: RestAndRecuperation
+    100022: Ship
+    400000: Bridge
+    400002: Cargo
+    400004: CommunicationAndNavigation
+    400006: CrewQuarters
+    400008: Engineering
+    400010: Hangar
+    400012: HydroponicGardens
+    400014: //RootNode
+    400016: Medical
+    400018: Research
+    400020: RestAndRecuperation
+    400022: Ship
+    2300000: Bridge
+    2300002: Cargo
+    2300004: CommunicationAndNavigation
+    2300006: CrewQuarters
+    2300008: Engineering
+    2300010: Hangar
+    2300012: HydroponicGardens
+    2300014: Medical
+    2300016: Research
+    2300018: RestAndRecuperation
+    2300020: Ship
+    3300000: Bridge
+    3300002: Cargo
+    3300004: CommunicationAndNavigation
+    3300006: CrewQuarters
+    3300008: Engineering
+    3300010: Hangar
+    3300012: HydroponicGardens
+    3300014: Medical
+    3300016: Research
+    3300018: RestAndRecuperation
+    3300020: Ship
+    4300000: Ship
+    4300002: Hangar
+    4300004: Bridge
+    4300006: Cargo
+    4300008: Research
+    4300010: Medical
+    4300012: CommunicationAndNavigation
+    4300014: CrewQuarters
+    4300016: RestAndRecuperation
+    4300018: HydroponicGardens
+    4300020: Engineering
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
